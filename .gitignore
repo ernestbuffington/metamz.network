@@ -2,6 +2,8 @@ workspace.xml
 junitvmwatcher*.properties
 build.properties
 desktop.ini
+_notes
+
 
 # generated java classes and java source files
 #   manually add any custom artifacts that can't be generated from the models
